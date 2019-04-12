@@ -1,2 +1,2 @@
 # ola-mundo
-Este é um exercício para aprender a usar o Github
+Estou estudando Github com o objetivo de armazenar meus projetos.
